@@ -59,6 +59,12 @@
 
 ###
 
+# 📊 E-Certificates:
+<p><a href=https://catalog-education.oracle.com/pls/certview/sharebadge?id=90A776AD370FE15068036DBFADB3CBD2D5808E88F6171F5E310D55E3145A9A47"> Oracle AI Foundation </a></p>
+
+
+
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
