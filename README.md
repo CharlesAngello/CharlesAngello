@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm ... from PH<br><br>- 🔭 I’m working as a CODER<br>- 📚 I'm currently learning PHP <br>
+<p align="left">Ask me about<br><br>- 🔭  Graduating Student here!<br>- 📚 I'm currently learning PHP <br>
 
 ###
 
