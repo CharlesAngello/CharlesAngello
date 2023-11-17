@@ -63,7 +63,7 @@
 <p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=90A776AD370FE15068036DBFADB3CBD2D5808E88F6171F5E310D55E3145A9A47"> Oracle AI Foundation </a></p>
 <p><a href="https://www.datacamp.com/statement-of-accomplishment/course/27aa022668e02fb1301bcb460c124c8909af5b4d?share=true"> Understanding Data Engineering </a></p>
 <p><a href="https://courses.cognitiveclass.ai/certificates/18a57dd048f542b7bce70862968b7685"> SQL and Relational Database 101 </a></p>
-<p><a href="https://mail.google.com/mail/u/1/#search/data+driven/FMfcgzGmvpJTqsDFRRmmkFDSxfSHDwpn?projector=1&messagePartId=0.1"> Data driven decesion making and data sceince </a></p>
+<p><a href="https://doc-10-b0-apps-viewer.googleusercontent.com/viewer/secure/pdf/f9lrjv80p4ne49n1qlk59dersk079n47/7spu1q566e312gs7nkok0m3ut0mqmb5l/1700224350000/gmail/16476147599495303627/ACFrOgCaCv3esdvAHQRBW6Mha2T7DKLe6F5WzAsiFGnZKz9ocO1NgQ7Iag0C_LAN0Is_kMS2y2RAPe05za11kfO4kVz-ztk2zNsNmdmXY853arTLybJJs5faog1FnAokTi3-a7-vl5a_k5UwG5Sm?print=true&nonce=08p87ctrjf270&user=16476147599495303627&hash=66vb3jcve9vujscevhe72ia4auuenj8k"> Data driven decesion making and data sceince </a></p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
