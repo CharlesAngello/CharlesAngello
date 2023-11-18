@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Ask me about<br><br>- 🔭📚  Currently a graduating IT student<br>- 
+<p align="left">Ask me about<br><br>- 🔭📚  Currently a graduating IT student<br>
 
 ###
 
