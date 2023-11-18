@@ -69,7 +69,6 @@
 <p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=90A776AD370FE15068036DBFADB3CBD2D5808E88F6171F5E310D55E3145A9A47"> Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate </a></p>
 <p><a href="https://www.datacamp.com/statement-of-accomplishment/course/27aa022668e02fb1301bcb460c124c8909af5b4d?share=true"> Understanding Data Engineering </a></p>
 <p><a href="https://courses.cognitiveclass.ai/certificates/18a57dd048f542b7bce70862968b7685"> SQL and Relational Database 101 </a></p>
-<p><a href="https://drive.google.com/drive/u/1/my-drive"> Data driven decesion making and data sceince </a></p>
 <p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=14570D57F519DF3AB59C73F2EB4DA87832ECFB94730B17B10E74F8C05E321E02"> Oracle Cloud Infrastructure 2023 Foundations Associate</a></p>
 
 
