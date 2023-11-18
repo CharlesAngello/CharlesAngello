@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="pogi.jpg"/>
+  <img height="250" src="pogi.jpg"/>
 
 ### Social
 
