@@ -70,7 +70,7 @@
 <p><a href="https://www.datacamp.com/statement-of-accomplishment/course/27aa022668e02fb1301bcb460c124c8909af5b4d?share=true"> Understanding Data Engineering </a></p>
 <p><a href="https://courses.cognitiveclass.ai/certificates/18a57dd048f542b7bce70862968b7685"> SQL and Relational Database 101 </a></p>
 <p><a href="https://drive.google.com/drive/u/1/my-drive"> Data driven decesion making and data sceince </a></p>
-<p><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4787832&trackId=OCI23AIFCA&key=c09a9faff667203d97b299efc9e493b797b3c952"> Oracle Cloud Infrastructure 2023 Foundations Associate</a></p>
+<p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=14570D57F519DF3AB59C73F2EB4DA87832ECFB94730B17B10E74F8C05E321E02"> Oracle Cloud Infrastructure 2023 Foundations Associate</a></p>
 
 
 <div align="center">
