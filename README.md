@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="pogi.jpg"/>
 
-###
+### Social
 
 <div align="center">
 <a href="https://www.linkedin.com/in/charles-malabanan-b48669267/" target="_blank">
